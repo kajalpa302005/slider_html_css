@@ -44,7 +44,7 @@ project-folder/
 
 ## 📷 Screenshot
 
-![Website Preview](images/screenshot.png)
+![Website Preview]https://image.png
 
 
 
