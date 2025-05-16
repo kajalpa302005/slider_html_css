@@ -44,7 +44,7 @@ project-folder/
 
 ## 📷 Screenshot
 
-![Website Preview]https://image.png
+![Website Preview]https:C:\Users\kajal\Downloads\image.png
 
 
 
