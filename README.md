@@ -42,6 +42,9 @@ project-folder/
 │   └── icons/
 ├── README.md
 
+## 📷 Screenshot
+
+![Website Preview](images/screenshot.png)
 
 
 
