@@ -44,7 +44,7 @@ project-folder/
 
 ## 📷 Screenshot
 
-![Website Preview]https:C:\Users\kajal\Downloads\image.png
+https://github.com/kajalpa302005/slider_html_css/commit/f9532edecb9bb8e57072c941c50f81d748b05b30
 
 
 
